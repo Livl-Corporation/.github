@@ -3,6 +3,14 @@
 </h1>
 <p align="center">In Livl Gaming you are gonna survive in the Livl store ! 🎮</p>
 
+A team of 3 developers from the Conservatoire National des Arts et Métiers (CNAM) has just released an apocalyptic video game in a Lidl store. The game is called "Livl" and is entirely based on items that can be found in Lidl stores.
+
+Players will have to collect and combine items to create weapons and items that will allow them to survive the apocalypse. Players can also collect items to use in their battles against the zombie hordes. Players will also need to find items to build forts and defenses to protect themselves from enemy attacks.
+
+The game is available on all platforms and is completely free. The developers hope that the game will help players discover a new way of thinking and surviving an apocalypse
+
+Translated with www.DeepL.com/Translator (free version)
+
 # 👨 Creators
 
 <p align="center"> We are a group of three creators.</p>

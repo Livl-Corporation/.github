@@ -9,8 +9,6 @@ Players will have to collect and combine items to create weapons and items that 
 
 The game is available on all platforms and is completely free. The developers hope that the game will help players discover a new way of thinking and surviving an apocalypse
 
-Translated with www.DeepL.com/Translator (free version)
-
 # 👨 Creators
 
 <p align="center"> We are a group of three creators.</p>

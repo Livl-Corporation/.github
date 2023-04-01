@@ -6,9 +6,7 @@
 A team of 4 developers from the Conservatoire National des Arts et Métiers (CNAM).
 
 
-# 👨 Creators
-
-<p align="center"> We are a group of three creators.</p>
+# 👨 Team
 
 <table align="center">
   <tr>

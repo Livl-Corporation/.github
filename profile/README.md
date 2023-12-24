@@ -1,12 +1,18 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/62793491/208452652-71416c5c-8261-4501-a002-afc9e2cf0a0b.png" width="224px"/><br/>
   Livl Corporation
 </h1>
-<p align="center">You'll be a gamer thanks to Livl</p>
+<p align="center">
+</p>
 
-A team of 4 developers from the Conservatoire National des Arts et Métiers (CNAM).
+# 🚀 Presentation
 
+- A team of four software enginners from the Conservatoire National des Arts et Métiers (CNAM) who love Livl !
 
-# 👨 Team
+> 💡 Check at our Livl game called [Livl Madness](https://github.com/Livl-Corporation/livl-madness)
+
+# 🧍 Livl Corporation authors
+
+> 🌱 This is the list of all contributors of this organization through our many projects.
 
 <table align="center">
   <tr>

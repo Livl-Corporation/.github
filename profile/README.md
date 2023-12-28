@@ -1,14 +1,22 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/62793491/208452652-71416c5c-8261-4501-a002-afc9e2cf0a0b.png" width="224px"/><br/>
-  Livl Corporation
-</h1>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/62793491/208452652-71416c5c-8261-4501-a002-afc9e2cf0a0b.png" width="224px"/>
+  <h1 align="center">Livl Corporation</h1>
 </p>
 
-# 🚀 Presentation
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineers-4-blue"/>
+  <img src="https://img.shields.io/badge/Institution-CNAM-green"/>
+  <img src="https://img.shields.io/badge/Love-Livl-red"/>
+</p>
 
-- A team of four software enginners from the Conservatoire National des Arts et Métiers (CNAM) who love Livl !
+## 🚀 About Us
 
-> 💡 Check at our Livl game called [Livl Madness](https://github.com/Livl-Corporation/livl-madness)
+We are a team of four software engineers from the Conservatoire National des Arts et Métiers (CNAM) who are passionate about Livl stores !
+
+## 🎮 Our Projects
+
+- Livl Madness: Check out our Livl game!
+- ... take a look at our dozens of projects
 
 # 🧍 Livl Corporation authors
 
